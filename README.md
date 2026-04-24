@@ -1,3 +1,13 @@
+> **Superseded — this work lives forward in Headless Oracle.** The
+> Signed Market Attestation (SMA) protocol described in this
+> repository has been incorporated into the `environment.market_state`
+> constraint type in the Verifiable Intent specification. The
+> canonical current location is [Headless Oracle](https://headlessoracle.com)
+> and [PR #9 on agent-intent/verifiable-intent](https://github.com/agent-intent/verifiable-intent/pull/9).
+> Content below is retained for historical reference.
+
+---
+
 # SMA Protocol v1.0 — Signed Market Attestation
 
 Vendor-neutral open standard for cryptographically attested market state.
